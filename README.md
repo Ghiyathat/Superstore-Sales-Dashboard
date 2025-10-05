@@ -8,6 +8,7 @@
 5. [Dashboard](#dashboard)
 6. [Key Skills](#key-skills)
 7. [Conclusion](#conclusion)
+8. [Reference](#reference)
 
 ### Project Overview
 This Power BI dashboard is a 4-page interactive report designed to analyze sales performance across multiple years, regions, and catgories. Before creating the visuals, data transformation was performed on the data using Power Query, including:
@@ -69,3 +70,5 @@ Page 4: Q&A - Ask Your Data
 ### Conclusion
 The dashboard demonstrates data storytelling with Power BI- combining data transformation, visualization, and AI features to enable users to interact with and derive insights from sales data effortlessly.
 
+## Reference
+[ForesightBI & Analytics](https://foresightbi.com.ng/)
