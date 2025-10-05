@@ -67,6 +67,5 @@ Page 4: Q&A - Ask Your Data
 - Utilized key influencers and Q&A visuals for insight automation
 
 ### Conclusion
-The dashboard demonstrates data storytelling with Power BI- combining data transformation, visualization, and AI features to enable users to interact with and derive insights from sales data effortlessly
-    - 
+The dashboard demonstrates data storytelling with Power BI- combining data transformation, visualization, and AI features to enable users to interact with and derive insights from sales data effortlessly.
 
