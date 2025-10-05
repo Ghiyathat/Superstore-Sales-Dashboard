@@ -13,6 +13,7 @@
 This Power BI dashboard is a 4-page interactive report designed to analyze sales performance across multiple years, regions, and catgories. Before creating the visuals, data transformation was performed on the data using Power Query, including:
 - Standardizing date formats and extracting only date values from datetime fields
 - Ensuring categorical fields were properly formatted for slicers and AI visuals
+  
 The result is an interactive , user friendly dashboard that allows users to explore sales data dynamically and gain actionabe insights
 
 ### Dataset
@@ -36,17 +37,17 @@ Page 2: Regional and Segment Insights
         - Sales Trend Chart by month to visualize how sales evolved overtime
         - Segment Performance Chart to compare sales across consumer, corporate, and house office segments
         - Top 10 states by sales chart: Users can click any state to view related details on segment distribution and shipment types
-        - Average sales and transactions by day of the week for operational inights
+        - Average sales and transactions by day of the week for operational insights
 
 Page 3: Advanced Sales Exploration (AI Visuals)
- - Aim: To use Power BI's AI capabilities for deeer pattern recognition
+ - Aim: To use Power BI's AI capabilities for deeper pattern recognition
     - Features:
        - Key Influencers Visual: Automatically identifies factors influencing sales increases or decreases (e.g., product category or subcategory)
-       - Decomposition Tree: Allow users users to break down sales values by any dimension of their choice (year, category, or shipment mode)
+       - Decomposition Tree: Allow users to break down sales values by any dimension of their choice (year, category, or shipment mode)
        - Switch view option: Users can switch from this analysis page to a "Question and Answer" Page for custom exploration
 
 Page 4: Q&A - Ask Your Data
- - Aim: To provide a natural language interface for users to ask questions about their date
+ - Aim: To provide a natural language interface for users to ask questions about their data
     - Features:
        - "Ask a Question" Tab: Users can type custom questions (e.g., "Top 5 states by sales") and receive instant visual answers
        - Predefined Suggestion: Common Questions like "City below average sales" or "Loss-making states" to guide users.
