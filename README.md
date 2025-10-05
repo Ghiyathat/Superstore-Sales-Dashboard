@@ -71,4 +71,4 @@ Page 4: Q&A - Ask Your Data
 The dashboard demonstrates data storytelling with Power BI- combining data transformation, visualization, and AI features to enable users to interact with and derive insights from sales data effortlessly.
 
 ## Reference
-[ForesightBI & Analytics](https://foresightbi.com.ng/)
+[ForesightBI Data Visualization essential with PowerBI](https://training.foresightbi.com.ng/courses/take/data-visualization-essentials-with-power-bi/texts/41406347-welcome)
